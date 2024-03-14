@@ -1,0 +1,6 @@
+HELLO EVRYONE I COME BACK WITH A NEW PROJECT USING NLP LANGUAGE IDENTIFICATION...
+
+THE ALGORITHM USED IS NAIVE BAYES CLASSIFIER ...
+
+WE USE HTML AND CSS AS FRONTEND AND FLASK AS BACKEND![Screenshot (24)](https://github.com/navyasri-24/language_identification/assets/105104007/2cef8c3c-a773-40c8-84f6-53a32baa88b7)
+![Screenshot (25)](https://github.com/navyasri-24/language_identification/assets/105104007/c0b804d5-e60a-4efe-936a-c7733c8802ab)
